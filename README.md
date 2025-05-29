@@ -49,5 +49,3 @@ npm run dev
 - If not, it stores the new user (name, email, password) into localStorage.
 - On Login, the app validates the email and password against stored users.
 - Displays success or error messages based on the result.
-
-Note: This is a front-end only demo. Do not use for production without implementing proper backend & encryption.
